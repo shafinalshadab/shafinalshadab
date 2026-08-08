@@ -2,9 +2,9 @@
 
 # ⚡ Shafin Al Shadab
 
-### `Vibe Coder` • `Freelancer` • `Builder`
+### `Vibe Coder` • `Freelancer` • `Builder` • `Entrepreneur`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+digital+products.;20%2B+websites+built.;Web+%7C+AI+%7C+SaaS+%7C+Automation" />
+**Turning ideas into digital products, businesses & experiences.**
 
 <br>
 
@@ -15,10 +15,6 @@
 <a href="https://www.facebook.com/shafin2506">
 <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white">
 </a>
-&nbsp;
-<a href="https://wersynapseit.com/">
-<img src="https://img.shields.io/badge/Synapse%20IT-Business-111827?style=flat-square&logo=google-chrome&logoColor=white">
-</a>
 
 </div>
 
@@ -26,13 +22,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Vibe Coder & Freelancer** who enjoys turning ideas into real, functional products.
+I'm a **Vibe Coder, Freelancer & Entrepreneur** who enjoys turning ideas into real, functional digital products and businesses.
 
 * 🚀 Built **20+ websites & web projects**
-* 💻 Work with **multiple programming languages & technologies**
+* 💻 Experienced with **multiple programming languages & technologies**
 * 🤖 Interested in **AI, SaaS & Automation**
 * 🎨 Love building **modern UI/UX & dashboards**
-* 💼 Building **Synapse IT**
+* 🏢 **Founder / Owner & CEO of 3+ businesses**
 * 🤝 Open to **freelance & collaboration opportunities**
 
 > **Think it. Build it. Ship it. 🚀**
@@ -56,13 +52,20 @@ I'm a **Vibe Coder & Freelancer** who enjoys turning ideas into real, functional
 
 ---
 
-### 🏢 Synapse IT
+### 🏢 Businesses & Ventures
 
-**Software • SaaS • Web • Automation**
+**Assorted BD**
+E-commerce & lifestyle products
 
-I'm also building **Synapse IT**, an IT company focused on modern digital solutions.
+**Assorted Her**
+Fashion & lifestyle brand
 
-🌐 **[Visit Synapse IT](https://wersynapseit.com/)**
+**Artisan Blossoms**
+Home décor & lifestyle
+
+**Shafin & Team**
+*Premium Business & E-Commerce Consultancy*
+*E-Commerce Growth & Marketing Consultancy*
 
 ---
 
@@ -74,10 +77,9 @@ I'm also building **Synapse IT**, an IT company focused on modern digital soluti
 
 <a href="https://linkedin.com/in/shafinalshadab">LinkedIn</a>
   •   <a href="https://www.facebook.com/shafin2506">Facebook</a>
-  •   <a href="https://wersynapseit.com/">Synapse IT</a>
 
 <br><br>
 
-`Code` • `Create` • `Experiment` • `Build`
+`Code` • `Create` • `Experiment` • `Build` • `Scale`
 
 </div>
