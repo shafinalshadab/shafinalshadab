@@ -109,3 +109,15 @@ Business & E-Commerce Consultancy
 ---
 
 ## 💡 Philosophy
+
+---
+
+<img src="https://img.shields.io/badge/Status-Open%20For%20Opportunities-success?style=flat-square" alt="Status">
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-informational?style=flat-square" alt="Location">
+<img src="https://img.shields.io/badge/Passion-Building%20Digital%20Products-ff69b4?style=flat-square" alt="Passion">
+
+<br><br>
+
+*Last updated: October 2024* ✨
+
+</div>
