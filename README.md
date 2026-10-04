@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # ⚡ Shafin Al Shadab
@@ -110,55 +109,3 @@ Business & E-Commerce Consultancy
 ---
 
 ## 💡 Philosophy
-
-```
-Code → Create → Experiment → Build → Scale
-│       │        │            │       │
-Quality + Innovation + Speed = Success
-```
-
-I believe in:
-- ✨ Clean, maintainable code
-- 🎯 User-first design
-- ⚡ Performance & optimization
-- 🚀 Rapid iteration & shipping
-- 🤝 Collaboration & growth
-
----
-
-## 🤝 Let's Connect & Build Together
-
-I'm always excited to discuss new ideas, collaborate on projects, or help turn your vision into reality.
-
-<a href="https://linkedin.com/in/shafinalshadab">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://www.facebook.com/shafin2506">
-<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-&nbsp;
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-### 📬 Have a Project in Mind?
-
-```
-DM on LinkedIn → Quick chat → Amazing things happen → 🚀
-```
-
----
-
-<img src="https://img.shields.io/badge/Status-Open%20For%20Opportunities-success?style=flat-square" alt="Status">
-<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-informational?style=flat-square" alt="Location">
-<img src="https://img.shields.io/badge/Passion-Building%20Digital%20Products-ff69b4?style=flat-square" alt="Passion">
-
-<br><br>
-
-*Last updated: October 2024* ✨
-
-</div>
-```
